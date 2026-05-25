@@ -75,6 +75,14 @@ Modelo de redes neuronales utilizado para pronóstico de variables clínicas.
 
 ---
 
+# Video de presentación
+
+El video explicativo y demostración del proyecto puede visualizarse en el siguiente enlace:
+
+[Ver presentación en YouTube](https://youtu.be/CdZ5CP8PfAg)
+
+---
+
 # Archivos del repositorio
 
 | Archivo | Descripción |
